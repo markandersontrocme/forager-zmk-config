@@ -61,7 +61,7 @@
             display-name = "NUM";
             bindings = <
   &none           &none             &none         &none          &none    &kp EQUAL     &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp PLUS
-  &sk LEFT_SHIFT  &sk LEFT_CONTROL  &sk LEFT_ALT  &sk LEFT_GUI   &none    &kp ASTERISK  &kp NUMBER_4  &kp N5        &kp NUMBER_6  &kp MINUS
+  &sk LEFT_SHIFT  &sk LEFT_CONTROL  &sk LEFT_ALT  &sk LEFT_GUI   &none    &kp ASTERISK  &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp MINUS
   &none           &none             &none         &kp BACKSPACE  &none    &kp NUMBER_0  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp SLASH
                                                   &none          &none    &kp ENTER     &none
             >;
