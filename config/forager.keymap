@@ -20,7 +20,7 @@
 
         combo_settings {
             timeout-ms = <300>;
-            key-positions = <30 31>;
+            key-positions = <31 32>;
             bindings = <&mo SETTINGS>;
         };
     };
